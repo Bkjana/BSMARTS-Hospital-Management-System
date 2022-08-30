@@ -1,0 +1,31 @@
+
+body{ 
+    width: 30%; 
+   padding-left: 35%; 
+   background-color: aqua; 
+} 
+legend{ 
+    font-weight: 900; 
+    background-color: yellow; 
+} 
+#mid{ 
+    background-color: rgb(240, 255, 255); 
+    border-radius: 20px; 
+} 
+#name,#Age,#disease,#DOA,#DOR,#doctor{ 
+    width: 98%; 
+} 
+ #butt{ 
+     /* background-color: rgb(255, 255, 255); */ 
+     padding-left: 40%; 
+     border-radius: 10px; 
+ } 
+ #submit{ 
+ margin-left: 38%; 
+ } 
+ #submit:hover{ 
+     background-color: blue; 
+ } 
+ #reset:hover{ 
+     background-color: aqua; 
+ }

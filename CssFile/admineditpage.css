@@ -1,0 +1,19 @@
+.admi{ 
+    background-color: aqua; 
+} 
+body{ 
+    /* background-image: url("../Image/Adminpic.jpg"); */ 
+    background-color: black; 
+} 
+#BM{ 
+    padding-left: 7%; 
+    padding-top: 2%; 
+    background-color: rgb(255, 255, 255); 
+   margin-top: 2%; 
+   margin-left: 22%; 
+   margin-right: 20%; 
+   border-radius: 5px; 
+} 
+#card-body{ 
+    text-align: center; 
+}

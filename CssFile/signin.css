@@ -1,0 +1,55 @@
+header{
+    padding: 5%;
+    color: rgb(40, 115, 228);
+    background-color:  aquamarine;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 7%;
+    background-repeat:no-repeat;
+    
+}
+body{
+    padding: 5%;
+    background-image: url("../Image/hospital.jpg");
+    
+}
+legend{
+    font-weight: 900;
+    font-size:250%;
+}
+#email,#password{
+    width: 98%;
+}
+button{
+    width: 60%;
+   
+}
+button:hover{
+    color: red;
+    background-color: rgb(255, 208, 0);
+}
+#butt{
+    text-align: center;
+    border-radius: 10px;
+}
+#last{
+    text-align:center;
+    
+}
+#admin{
+    padding-left: 50%;
+}
+#bu{
+    border-radius: 7px;
+}
+.title{
+    text-align: center;
+    color: black;
+   margin-bottom: 50px;
+}
+#t{
+    text-decoration: underline;
+     color: rgb(0, 38, 255);
+    
+}

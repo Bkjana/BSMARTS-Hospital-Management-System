@@ -1,0 +1,41 @@
+#navbar{
+    background-color: aqua;
+}
+.title{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(18, 140, 197);
+    padding: 10px;
+}
+#homeImage{
+    width: 100%;
+}
+#footer{
+    background-color: black;
+    
+}
+.details{
+    color: red;
+    text-align: center;
+     
+}
+#joy{
+    width: 14%;
+    height: 14%;
+   
+}
+#dev{
+   padding-left: 12%;
+}
+#tanu{
+    width: 15%;
+    height: 15%;
+}
+#suman{
+    height: 10%;
+    width: 10%;
+}
+#ayan{
+    height: 10%;
+    width: 12.5%;
+}

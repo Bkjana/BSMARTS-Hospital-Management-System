@@ -1,0 +1,30 @@
+body{
+    width: 50%;
+   padding-left: 25%;
+   padding-top: 8%;
+   background-image: url("../Image/scope.jpg");
+}
+legend{
+    font-weight: 900;
+    background-color: yellow;
+}
+#mid{
+    background-color: aqua;
+}
+#name,#Age,#disease,#DOA,#DOR,#doctor{
+    width: 98%;
+}
+ #butt{
+     background-color: aquamarine;
+     padding-left: 40%;
+     border-radius: 10px;
+ }
+ #submit{
+     margin-right: 40px;
+ }
+ #submit:hover{
+     background-color: blue;
+ }
+ #reset:hover{
+     background-color: aqua;
+ }

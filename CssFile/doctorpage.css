@@ -1,0 +1,44 @@
+.dc{ 
+    width: 15%; 
+    height: 15%; 
+} 
+.dDetails{ 
+    padding-left: 40px; 
+    font-weight: 900; 
+    font-size: 30px; 
+} 
+.dc{ 
+    padding: 5px; 
+   
+} 
+.doctorName{ 
+    padding-left: 9px; 
+    font-weight: 700; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px; 
+    background-color: yellow; 
+    color: rgb(0, 38, 255); 
+ 
+} 
+.TK{ 
+    text-align: center; 
+    border-radius: 20px; 
+    margin-left: 80%; 
+} 
+.TK:hover{ 
+    background-color: rgb(255, 153, 0); 
+} 
+.day{ 
+    font-weight: 200; 
+    color: rgb(244, 254, 255); 
+    background-color: rgb(241, 65, 65); 
+}
+#t{
+    font-size: 30px;
+    
+    text-decoration: underline;
+}
+#t1{
+    font-size: 40px;
+    
+}
